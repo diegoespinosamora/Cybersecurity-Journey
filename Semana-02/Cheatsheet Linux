@@ -1,0 +1,27 @@
+Guía de referencia rápida para administración básica de sistemas Linux.
+
+  Comando   | Función                
+| pwd       | Directorio actual        |
+| ls        | Listar archivos          |
+| cd        | Cambiar directorio       |
+| mkdir     | Crear directorios        |
+| touch     | Crear archivos           |
+| cp        | Copiar                   |
+| mv        | Mover o renombrar        |
+| rm        | Eliminar                 |
+| cat       | Mostrar contenido        |
+| nano      | Editar archivos          |
+| whoami    | Usuario actual           |
+| adduser   | Crear usuario            |
+| groups    | Mostrar grupos           |
+| chmod     | Modificar permisos       |
+| chown     | Cambiar propietario      |
+| ps        | Ver procesos             |
+| top       | Monitorizar procesos     |
+| systemctl | Administrar servicios    |
+| ip addr   | Consultar red            |
+| ping      | Comprobar conectividad   |
+| curl      | Realizar peticiones      |
+| apt       | Gestionar paquetes       |
+| sudo      | Ejecutar con privilegios |
+| man       | Consultar manuales       |
