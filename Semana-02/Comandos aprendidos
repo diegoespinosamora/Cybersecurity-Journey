@@ -1,0 +1,70 @@
+Comandos Linux - Diario de Aprendizaje
+
+Navegación por el sistema
+
+pwd
+¿Qué hace?
+Muestra la ruta absoluta del directorio en el que me encuentro.
+¿Qué aprendí?
+Comprendí que Linux utiliza una estructura jerárquica de directorios y que conocer mi ubicación actual
+es importante antes de ejecutar comandos que modifican archivos.
+
+ls
+¿Qué hace?
+Muestra los archivos y directorios disponibles.
+Con:
+ls -la
+puedo visualizar también archivos ocultos y obtener información detallada.
+¿Qué aprendí?
+Aprendí que la opción -l muestra información adicional sobre permisos, propietario y tamaño,
+mientras que -a permite visualizar archivos ocultos.
+
+cd
+¿Qué hace?
+Permite desplazarse entre directorios.
+¿Qué aprendí?
+Comprendí que la terminal no funciona como un explorador gráfico. Para trabajar correctamente debo
+conocer la estructura de directorios y moverme mediante rutas.
+
+whoami
+¿Qué hace?
+Muestra el usuario con el que estoy trabajando.
+¿Qué aprendí?
+Comprendí que saber qué usuario estoy utilizando es importante porque los permisos disponibles
+dependen de la identidad del usuario.
+
+adduser
+¿Qué hace?
+Crea un nuevo usuario en el sistema.
+¿Qué aprendí?
+Aprendí que Linux permite gestionar diferentes usuarios y que cada uno puede tener sus propios
+permisos y configuraciones.
+
+groups
+¿Qué hace?
+Muestra los grupos a los que pertenece un usuario.
+¿Qué aprendí?
+Comprendí que los grupos permiten administrar permisos de varios usuarios de forma organizada.
+
+groupadd
+¿Qué hace?
+Crea un nuevo grupo.
+¿Qué aprendí?
+Los grupos facilitan la administración de sistemas con múltiples usuarios porque permiten asignar
+permisos de forma colectiva.
+
+chmod
+¿Qué hace?
+Modifica los permisos de un archivo.
+¿Qué aprendí?
+Aprendí que los permisos son fundamentales para controlar quién puede acceder o modificar
+información.
+
+chown
+¿Qué hace?
+Cambia el propietario y el grupo de un archivo.
+¿Qué aprendí?
+Comprendí que Linux separa la propiedad de los archivos de los permisos. Primero existe un
+propietario y un grupo asociado, y después se establecen los permisos correspondientes.
+
+
