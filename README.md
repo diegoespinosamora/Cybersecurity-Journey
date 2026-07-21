@@ -1,5 +1,4 @@
 # Cybersecurity-Journey
-Mi preparacion para el master en redes, ciberseguridad e IA
 Bienvenido a mi repositorio de apredizaje.
 Aqui documento mi preparación para el master en redes, ciberseguridad e IA
 
